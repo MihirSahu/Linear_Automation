@@ -1,0 +1,14 @@
+weekly:
+  - title: "Implement user authentication"
+    description: "Add user authentication to the login page"
+    state: "Todo"
+  - title: "Create new logo"
+    description: "Design a new logo for the company"
+    state: "Todo"
+  - title: "Launch social media campaign"
+    description: "Create and launch a social media campaign for the new product"
+    state: "Done"
+monthly:
+  - title: "Refactor codebase"
+    description: "Refactor the codebase to improve performance"
+    state: "Todo"
